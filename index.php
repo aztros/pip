@@ -1,6 +1,7 @@
 <?php
 
- echo "aztro";
- echo "@vinne";
+    echo "aztro";
+    echo "@vinne";
+
 
 ?>
