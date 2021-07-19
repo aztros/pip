@@ -1,7 +1,7 @@
 <?php
 
     echo "aztro";
-    echo "version";
+    echo "2.1.0";
 
 
 ?>
