@@ -1,7 +1,7 @@
 <?php
 
     echo "aztro";
-    echo "@google";
+    echo "version";
 
 
 ?>
